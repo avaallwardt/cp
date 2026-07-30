@@ -5,4 +5,4 @@
 - lost cow (usaco 2017 december bronze)
 
 7/30/26
-- bucket list (isaco 2018 december bronze)
+- bucket list (usaco 2018 december bronze)

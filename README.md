@@ -14,3 +14,4 @@
 8/1/26
 - milk pails (usaco 2016 february bronze)
 - diamond collector (usaco 2016 us open bronze) (used 2 pointers instead of complete search)
+- daisy chains (usaco 2020 december bronze) (found optimized $O(n^2)$ solution instead of $O(n^3)$)

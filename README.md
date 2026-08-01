@@ -6,3 +6,11 @@
 
 7/30/26
 - bucket list (usaco 2018 december bronze)
+
+7/31/26
+- measuring traffic (usaco 2019 february bronze)
+- circular barn (usaco 2016 february bronze)
+
+8/1/26
+- milk pails (usaco 2016 february bronze)
+- diamond collector (usaco 2016 us open bronze) (used 2 pointers instead of complete search)
